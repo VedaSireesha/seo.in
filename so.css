@@ -1,0 +1,158 @@
+body{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+    max-width: 100%;
+}
+.btn-primary{
+    margin-left: 10px;
+}
+.btn-warning{
+    margin-left: 20px;
+}
+#home{
+    margin-left: 260px;
+}
+.navbar-brand{
+    margin-left: 40px;
+}
+.nav-item{
+    margin-left: 10px;
+}
+body{
+    background-image: linear-gradient(to right,#e2ebfc,);
+    margin: 30px;
+}
+.banner{
+    width:50%;
+    float:left;
+}
+.man{
+    width: 100%;
+    height:80vh;
+}
+.market{
+	padding-top: 70px;
+	color:#fe4c1c;
+}
+.title{
+	padding-top: 10px;
+	font-weight: bolder;
+	color:#0e0e3b;
+}
+.banner-left{
+	margin-top: 15px;
+}
+.curves{
+      
+      float: right;
+      margin-right: 250px;
+      margin-top: 20px;
+}
+.navbar{
+	margin: 0px;
+	padding: 0px;
+	width:1238px;
+	position: fixed;
+	background-color: white;
+	left:0%;
+	top:0;
+	height:10vh;
+}
+.layout{
+	padding-top: 80px;
+	margin: 40px;
+}
+.btn-info{
+	margin-top: 20px;
+}
+.btn-danger{
+	background-color:#fe4c1c ;
+}
+.btn-danger:hover{
+	background-color: #fe4c1c;
+}
+.card_layout{
+	clear:both;
+	border:0px;
+	margin-top: 50px;
+}
+.row{
+	width:25%;
+	float:left;
+	border:0px;
+	margin-top: 70px;
+	margin-left: 10px;
+}
+.card{
+	border:0px;
+}
+.card-img img{
+	width:30%;
+}
+.card-title{
+	padding-top: 20px;
+}
+#square{
+      width:100%;
+      margin-top: 20px;
+}
+.content{
+	width: 30%;
+	float:left;
+	margin-left: 10px;
+}
+.content-middle{
+	width:80%;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.content-right{
+	width:6%;
+}
+.content-left{
+	width:6%;
+}
+.about-company{
+	margin-top: 100px;
+	margin-left: 30px;
+	padding-top: 60px;
+	position: absolute;
+	top:140%;
+}
+#about{
+	color:#fe4c1c;
+}
+.btn-warning{
+	background-color: #fe4c1c;
+	color:white;
+}
+.btn-warning:hover{
+	background-color: #fe4c1c;
+	color: white;
+}
+.business-growth{
+	clear:both;
+	position: absolute;
+	top:190%;
+}
+.grow{
+	width:40%;
+	float:left;
+	margin: 28px;
+
+
+}
+#grow-man{
+	width: 100%;
+}
+.fa-square-check{
+	color:#fe4c1c;
+}
+.grow-title{
+	font-weight: bolder;
+}
+.checkboxes{
+	margin-top: 30px;
+}
